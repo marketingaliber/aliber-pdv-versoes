@@ -1,0 +1,8 @@
+version: 0.5.1
+files:
+  - url: AliberPDV-Setup.exe
+    sha512: rI6UH3jQsK0p1WXL7JAkkYtR80Wj7v0wVWKfqKnAFNEQd7dcFYLdBelhJSNsWs4tr/r5ax4pQeAXKng0UCay8A==
+    size: 78234793
+path: AliberPDV-Setup.exe
+sha512: rI6UH3jQsK0p1WXL7JAkkYtR80Wj7v0wVWKfqKnAFNEQd7dcFYLdBelhJSNsWs4tr/r5ax4pQeAXKng0UCay8A==
+releaseDate: '2026-10-19T17:36:59.503Z'
